@@ -1,0 +1,6 @@
+﻿  SetZeroBit.c
+D:\C_work\Pro0615\SetZeroBit.c(248,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C_work\Pro0615\SetZeroBit.c(252,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+D:\C_work\Pro0615\SetZeroBit.c(246,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_work\Pro0615\SetZeroBit.c(252): warning C4700: 초기화되지 않은 'a' 지역 변수를 사용했습니다.
+  Pro0615.vcxproj -> D:\C_work\Pro0615\Debug\Pro0615.exe
