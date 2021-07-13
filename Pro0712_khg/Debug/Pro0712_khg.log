@@ -1,0 +1,3 @@
+﻿  strchr.c
+C:\Users\someone\source\repos\Pro0712_khg\strchr.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Pro0712_khg.vcxproj -> C:\Users\someone\source\repos\Pro0712_khg\Debug\Pro0712_khg.exe
